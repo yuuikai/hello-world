@@ -1,2 +1,3 @@
 # hello-world
-my frist repository
+my first repository
+idk whta to do here
